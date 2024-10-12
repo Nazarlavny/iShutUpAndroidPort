@@ -1,3 +1,4 @@
 Tap To Text "SHUTUP"
-TELEGRAM
+
+TELEGRAM Channel
 https://t.me/Nazar_Palace
